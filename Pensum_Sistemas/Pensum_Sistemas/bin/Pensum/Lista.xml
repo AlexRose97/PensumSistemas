@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfObjetoCurso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ObjetoCurso>
+    <Semestre>1</Semestre>
+    <Codigo>17</Codigo>
+    <Curso>SOCIAL HUMANISTICA 1</Curso>
+    <Creditos>4</Creditos>
+    <Creditos_Pre>0</Creditos_Pre>
+    <cursos_Pre />
+    <obligatorio>true</obligatorio>
+  </ObjetoCurso>
+  <ObjetoCurso>
+    <Semestre>1</Semestre>
+    <Codigo>101</Codigo>
+    <Curso>MATEMATICA BASICA 1</Curso>
+    <Creditos>7</Creditos>
+    <Creditos_Pre>0</Creditos_Pre>
+    <cursos_Pre />
+    <obligatorio>true</obligatorio>
+  </ObjetoCurso>
+  <ObjetoCurso>
+    <Semestre>1</Semestre>
+    <Codigo>69</Codigo>
+    <Curso>TECNICA COMPLEMENTARIA 1</Curso>
+    <Creditos>3</Creditos>
+    <Creditos_Pre>0</Creditos_Pre>
+    <cursos_Pre />
+    <obligatorio>true</obligatorio>
+  </ObjetoCurso>
+  <ObjetoCurso>
+    <Semestre>1</Semestre>
+    <Codigo>348</Codigo>
+    <Curso>QUIMICA GENERAL 1</Curso>
+    <Creditos>3</Creditos>
+    <Creditos_Pre>0</Creditos_Pre>
+    <cursos_Pre />
+    <obligatorio>true</obligatorio>
+  </ObjetoCurso>
+  <ObjetoCurso>
+    <Semestre>2</Semestre>
+    <Codigo>19</Codigo>
+    <Curso>SOCIAL HUMANISTICA 2</Curso>
+    <Creditos>4</Creditos>
+    <Creditos_Pre>0</Creditos_Pre>
+    <cursos_Pre>17</cursos_Pre>
+    <obligatorio>true</obligatorio>
+  </ObjetoCurso>
+  <ObjetoCurso>
+    <Semestre>2</Semestre>
+    <Codigo>103</Codigo>
+    <Curso>MATEMATICA BASICA 2</Curso>
+    <Creditos>7</Creditos>
+    <Creditos_Pre>0</Creditos_Pre>
+    <cursos_Pre>101</cursos_Pre>
+    <obligatorio>true</obligatorio>
+  </ObjetoCurso>
+  <ObjetoCurso>
+    <Semestre>2</Semestre>
+    <Codigo>5</Codigo>
+    <Curso>TECNICAS DE ESTUDIO Y DE INVESTIGACION</Curso>
+    <Creditos>3</Creditos>
+    <Creditos_Pre>0</Creditos_Pre>
+    <cursos_Pre />
+    <obligatorio>true</obligatorio>
+  </ObjetoCurso>
+  <ObjetoCurso>
+    <Semestre>2</Semestre>
+    <Codigo>147</Codigo>
+    <Curso>FISICA BASICA</Curso>
+    <Creditos>5</Creditos>
+    <Creditos_Pre>0</Creditos_Pre>
+    <cursos_Pre>101</cursos_Pre>
+    <obligatorio>true</obligatorio>
+  </ObjetoCurso>
+  <ObjetoCurso>
+    <Semestre>3</Semestre>
+    <Codigo>795</Codigo>
+    <Curso>LOGICA DE SISTEMAS</Curso>
+    <Creditos>2</Creditos>
+    <Creditos_Pre>33</Creditos_Pre>
+    <cursos_Pre>103</cursos_Pre>
+    <obligatorio>true</obligatorio>
+  </ObjetoCurso>
+  <ObjetoCurso>
+    <Semestre>3</Semestre>
+    <Codigo>960</Codigo>
+    <Curso>MATE COMPUTO 1</Curso>
+    <Creditos>5</Creditos>
+    <Creditos_Pre>33</Creditos_Pre>
+    <cursos_Pre>103</cursos_Pre>
+    <obligatorio>true</obligatorio>
+  </ObjetoCurso>
+  <ObjetoCurso>
+    <Semestre>3</Semestre>
+    <Codigo>770</Codigo>
+    <Curso>INTRODUCCION A LA PROGRAMACION Y COMPUTACION 1</Curso>
+    <Creditos>4</Creditos>
+    <Creditos_Pre>33</Creditos_Pre>
+    <cursos_Pre>103</cursos_Pre>
+    <obligatorio>true</obligatorio>
+  </ObjetoCurso>
+  <ObjetoCurso>
+    <Semestre>3</Semestre>
+    <Codigo>107</Codigo>
+    <Curso>MATEMATICA INTERMEDIA 1</Curso>
+    <Creditos>10</Creditos>
+    <Creditos_Pre>0</Creditos_Pre>
+    <cursos_Pre>103</cursos_Pre>
+    <obligatorio>true</obligatorio>
+  </ObjetoCurso>
+  <ObjetoCurso>
+    <Semestre>3</Semestre>
+    <Codigo>150</Codigo>
+    <Curso>FISICA 1</Curso>
+    <Creditos>6</Creditos>
+    <Creditos_Pre>0</Creditos_Pre>
+    <cursos_Pre>103/147</cursos_Pre>
+    <obligatorio>true</obligatorio>
+  </ObjetoCurso>
+  <ObjetoCurso>
+    <Semestre>4</Semestre>
+    <Codigo>732</Codigo>
+    <Curso>ESTADISTICA 1</Curso>
+    <Creditos>5</Creditos>
+    <Creditos_Pre>0</Creditos_Pre>
+    <cursos_Pre>107/5</cursos_Pre>
+    <obligatorio>true</obligatorio>
+  </ObjetoCurso>
+  <ObjetoCurso>
+    <Semestre>4</Semestre>
+    <Codigo>796</Codigo>
+    <Curso>LENGUAJES FORMALES Y DE PROGRAMACION</Curso>
+    <Creditos>3</Creditos>
+    <Creditos_Pre>0</Creditos_Pre>
+    <cursos_Pre>770/795/960</cursos_Pre>
+    <obligatorio>true</obligatorio>
+  </ObjetoCurso>
+  <ObjetoCurso>
+    <Semestre>4</Semestre>
+    <Codigo>962</Codigo>
+    <Curso>MATE COMPUTO 2</Curso>
+    <Creditos>5</Creditos>
+    <Creditos_Pre>0</Creditos_Pre>
+    <cursos_Pre>960/770/795</cursos_Pre>
+    <obligatorio>true</obligatorio>
+  </ObjetoCurso>
+  <ObjetoCurso>
+    <Semestre>4</Semestre>
+    <Codigo>771</Codigo>
+    <Curso>INTRODUCCION A LA PROGRAMACION Y COMPUTACION 2</Curso>
+    <Creditos>5</Creditos>
+    <Creditos_Pre>0</Creditos_Pre>
+    <cursos_Pre>107/770/795/960</cursos_Pre>
+    <obligatorio>true</obligatorio>
+  </ObjetoCurso>
+  <ObjetoCurso>
+    <Semestre>4</Semestre>
+    <Codigo>10</Codigo>
+    <Curso>LOGICA</Curso>
+    <Creditos>2</Creditos>
+    <Creditos_Pre>0</Creditos_Pre>
+    <cursos_Pre>19</cursos_Pre>
+    <obligatorio>false</obligatorio>
+  </ObjetoCurso>
+  <ObjetoCurso>
+    <Semestre>4</Semestre>
+    <Codigo>112</Codigo>
+    <Curso>MATEMATICA INTERMEDIA 2</Curso>
+    <Creditos>5</Creditos>
+    <Creditos_Pre>0</Creditos_Pre>
+    <cursos_Pre>107</cursos_Pre>
+    <obligatorio>true</obligatorio>
+  </ObjetoCurso>
+  <ObjetoCurso>
+    <Semestre>4</Semestre>
+    <Codigo>114</Codigo>
+    <Curso>MATEMATICA INTERMEDIA 3</Curso>
+    <Creditos>5</Creditos>
+    <Creditos_Pre>0</Creditos_Pre>
+    <cursos_Pre>107</cursos_Pre>
+    <obligatorio>true</obligatorio>
+  </ObjetoCurso>
+  <ObjetoCurso>
+    <Semestre>4</Semestre>
+    <Codigo>152</Codigo>
+    <Curso>FISICA 2</Curso>
+    <Creditos>6</Creditos>
+    <Creditos_Pre>0</Creditos_Pre>
+    <cursos_Pre>107/150</cursos_Pre>
+    <obligatorio>true</obligatorio>
+  </ObjetoCurso>
+  <ObjetoCurso>
+    <Semestre>4</Semestre>
+    <Codigo>2025</Codigo>
+    <Curso>PRACTICA INICIAL</Curso>
+    <Creditos>0</Creditos>
+    <Creditos_Pre>0</Creditos_Pre>
+    <cursos_Pre>103/770</cursos_Pre>
+    <obligatorio>true</obligatorio>
+  </ObjetoCurso>
+  <ObjetoCurso>
+    <Semestre>5</Semestre>
+    <Codigo>736</Codigo>
+    <Curso>ANALISIS PROBABILISTICO</Curso>
+    <Creditos>4</Creditos>
+    <Creditos_Pre>0</Creditos_Pre>
+    <cursos_Pre>732</cursos_Pre>
+    <obligatorio>true</obligatorio>
+  </ObjetoCurso>
+  <ObjetoCurso>
+    <Semestre>5</Semestre>
+    <Codigo>777</Codigo>
+    <Curso>ORGANIZACIÓN DE LENGUAJES Y COMPILADORES 1</Curso>
+    <Creditos>4</Creditos>
+    <Creditos_Pre>0</Creditos_Pre>
+    <cursos_Pre>771/796/962</cursos_Pre>
+    <obligatorio>true</obligatorio>
+  </ObjetoCurso>
+  <ObjetoCurso>
+    <Semestre>5</Semestre>
+    <Codigo>772</Codigo>
+    <Curso>ESTRUCTURA DE DATOS</Curso>
+    <Creditos>5</Creditos>
+    <Creditos_Pre>0</Creditos_Pre>
+    <cursos_Pre>771/796/962</cursos_Pre>
+    <obligatorio>true</obligatorio>
+  </ObjetoCurso>
+  <ObjetoCurso>
+    <Semestre>5</Semestre>
+    <Codigo>116</Codigo>
+    <Curso>MATEMATICA APLICADA 3</Curso>
+    <Creditos>5</Creditos>
+    <Creditos_Pre>0</Creditos_Pre>
+    <cursos_Pre>112/114</cursos_Pre>
+    <obligatorio>true</obligatorio>
+  </ObjetoCurso>
+  <ObjetoCurso>
+    <Semestre>5</Semestre>
+    <Codigo>118</Codigo>
+    <Curso>MATEMATICA APLICADA 1</Curso>
+    <Creditos>6</Creditos>
+    <Creditos_Pre>0</Creditos_Pre>
+    <cursos_Pre>112/114</cursos_Pre>
+    <obligatorio>true</obligatorio>
+  </ObjetoCurso>
+  <ObjetoCurso>
+    <Semestre>6</Semestre>
+    <Codigo>601</Codigo>
+    <Curso>INVESTIGACION DE OPERACIONES 1</Curso>
+    <Creditos>5</Creditos>
+    <Creditos_Pre>0</Creditos_Pre>
+    <cursos_Pre>771/732</cursos_Pre>
+    <obligatorio>true</obligatorio>
+  </ObjetoCurso>
+  <ObjetoCurso>
+    <Semestre>6</Semestre>
+    <Codigo>122</Codigo>
+    <Curso>MATEMATICA APLICADA 4</Curso>
+    <Creditos>4</Creditos>
+    <Creditos_Pre>0</Creditos_Pre>
+    <cursos_Pre>118</cursos_Pre>
+    <obligatorio>false</obligatorio>
+  </ObjetoCurso>
+  <ObjetoCurso>
+    <Semestre>6</Semestre>
+    <Codigo>120</Codigo>
+    <Curso>MATEMATICA APLICADA 2</Curso>
+    <Creditos>6</Creditos>
+    <Creditos_Pre>0</Creditos_Pre>
+    <cursos_Pre>118</cursos_Pre>
+    <obligatorio>false</obligatorio>
+  </ObjetoCurso>
+  <ObjetoCurso>
+    <Semestre>7</Semestre>
+    <Codigo>734</Codigo>
+    <Curso>ESTADISTICA 2</Curso>
+    <Creditos>5</Creditos>
+    <Creditos_Pre>0</Creditos_Pre>
+    <cursos_Pre>732</cursos_Pre>
+    <obligatorio>false</obligatorio>
+  </ObjetoCurso>
+  <ObjetoCurso>
+    <Semestre>6</Semestre>
+    <Codigo>722</Codigo>
+    <Curso>TEORIA DE SISTEMAS 1</Curso>
+    <Creditos>5</Creditos>
+    <Creditos_Pre>0</Creditos_Pre>
+    <cursos_Pre>732/772/116/118</cursos_Pre>
+    <obligatorio>true</obligatorio>
+  </ObjetoCurso>
+  <ObjetoCurso>
+    <Semestre>5</Semestre>
+    <Codigo>964</Codigo>
+    <Curso>ORGANIZACIÓN COMPUTACIONAL</Curso>
+    <Creditos>3</Creditos>
+    <Creditos_Pre>0</Creditos_Pre>
+    <cursos_Pre>152/771/962</cursos_Pre>
+    <obligatorio>true</obligatorio>
+  </ObjetoCurso>
+  <ObjetoCurso>
+    <Semestre>7</Semestre>
+    <Codigo>603</Codigo>
+    <Curso>INVESTIGACION DE OPERACIONES 2</Curso>
+    <Creditos>5</Creditos>
+    <Creditos_Pre>0</Creditos_Pre>
+    <cursos_Pre>601</cursos_Pre>
+    <obligatorio>true</obligatorio>
+  </ObjetoCurso>
+  <ObjetoCurso>
+    <Semestre>6</Semestre>
+    <Codigo>14</Codigo>
+    <Curso>ECONOMIA</Curso>
+    <Creditos>4</Creditos>
+    <Creditos_Pre>0</Creditos_Pre>
+    <cursos_Pre>732</cursos_Pre>
+    <obligatorio>true</obligatorio>
+  </ObjetoCurso>
+  <ObjetoCurso>
+    <Semestre>6</Semestre>
+    <Codigo>773</Codigo>
+    <Curso>MANEJO E IMPLEMENTACION DE ARCHIVOS</Curso>
+    <Creditos>4</Creditos>
+    <Creditos_Pre>0</Creditos_Pre>
+    <cursos_Pre>772/796</cursos_Pre>
+    <obligatorio>true</obligatorio>
+  </ObjetoCurso>
+  <ObjetoCurso>
+    <Semestre>6</Semestre>
+    <Codigo>778</Codigo>
+    <Curso>ARQUITECTURA DE COMPUTADORAS Y ENSAMBLADORES 1</Curso>
+    <Creditos>5</Creditos>
+    <Creditos_Pre>0</Creditos_Pre>
+    <cursos_Pre>796/964</cursos_Pre>
+    <obligatorio>true</obligatorio>
+  </ObjetoCurso>
+  <ObjetoCurso>
+    <Semestre>7</Semestre>
+    <Codigo>724</Codigo>
+    <Curso>TEORIA DE SISTEMAS 2</Curso>
+    <Creditos>5</Creditos>
+    <Creditos_Pre>0</Creditos_Pre>
+    <cursos_Pre>722/601/736</cursos_Pre>
+    <obligatorio>true</obligatorio>
+  </ObjetoCurso>
+  <ObjetoCurso>
+    <Semestre>7</Semestre>
+    <Codigo>774</Codigo>
+    <Curso>SISTEMA DE BASES DE DATOS 1</Curso>
+    <Creditos>5</Creditos>
+    <Creditos_Pre>0</Creditos_Pre>
+    <cursos_Pre>773</cursos_Pre>
+    <obligatorio>true</obligatorio>
+  </ObjetoCurso>
+</ArrayOfObjetoCurso>

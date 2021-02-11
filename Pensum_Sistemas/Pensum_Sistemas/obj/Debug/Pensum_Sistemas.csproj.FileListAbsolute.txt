@@ -1,0 +1,9 @@
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\Pensum_Sistemas\Pensum_Sistemas\bin\Debug\Pensum_Sistemas.exe.config
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\Pensum_Sistemas\Pensum_Sistemas\bin\Debug\Pensum_Sistemas.exe
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\Pensum_Sistemas\Pensum_Sistemas\bin\Debug\Pensum_Sistemas.pdb
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\Pensum_Sistemas\Pensum_Sistemas\obj\Debug\Pensum_Sistemas.Form1.resources
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\Pensum_Sistemas\Pensum_Sistemas\obj\Debug\Pensum_Sistemas.Properties.Resources.resources
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\Pensum_Sistemas\Pensum_Sistemas\obj\Debug\Pensum_Sistemas.csproj.GenerateResource.Cache
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\Pensum_Sistemas\Pensum_Sistemas\obj\Debug\Pensum_Sistemas.exe
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\Pensum_Sistemas\Pensum_Sistemas\obj\Debug\Pensum_Sistemas.pdb
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\Pensum_Sistemas\Pensum_Sistemas\obj\Debug\Pensum_Sistemas.csprojResolveAssemblyReference.cache
